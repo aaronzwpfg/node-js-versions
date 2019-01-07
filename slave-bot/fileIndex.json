@@ -1,4 +1,8 @@
 {
-	//FILENAME : FILEURL
-	"bot.js":""
+	"files": [
+		{
+			"name":"bot.js",
+			"url":"https://raw.githubusercontent.com/aaronzwpfg/slave-bot/master/bot.js"
+		}
+	]
 }
